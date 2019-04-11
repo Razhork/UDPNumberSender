@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPNumberSender", "UDPNumberSender\UDPNumberSender.csproj", "{9867F73E-B741-4290-A2FB-11C2FC57AB2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPSenderBroadcast", "UDPSenderBroadcast\UDPSenderBroadcast.csproj", "{892798C8-731C-4992-A92E-E6CA906E68D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9867F73E-B741-4290-A2FB-11C2FC57AB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9867F73E-B741-4290-A2FB-11C2FC57AB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9867F73E-B741-4290-A2FB-11C2FC57AB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9867F73E-B741-4290-A2FB-11C2FC57AB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892798C8-731C-4992-A92E-E6CA906E68D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892798C8-731C-4992-A92E-E6CA906E68D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892798C8-731C-4992-A92E-E6CA906E68D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892798C8-731C-4992-A92E-E6CA906E68D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC76C47E-85D4-4498-9FC9-DB515F4D142D}
+	EndGlobalSection
+EndGlobal
